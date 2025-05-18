@@ -4,7 +4,7 @@
 ## YouTube Demo video;
 - https://www.youtube.com/shorts/yaJGEnYyS5s
 ## Demo page with buttons;
-- https://kaliscandinavia.github.io/javaScript-fun
+- https://kaliscandinavia.github.io/javascript-fun
 
 ## Scripts and codes behavior;
  - 1.Mirror: Mirror the page and set it back again.
