@@ -1,5 +1,5 @@
 
-# someFunctions 2 and 3 i costumiced.1,4,5,6,8 i puzzle together by learnig.
+# someFunctions 2 and 3 i costumiced.1,4,5,6,7,8 i puzzle together by learnig.
 ## Give code time to run.Often a 2'nd click might change output.<a id="up"></a>
 ## YouTube Demo video;
 <a href="https://www.youtube.com/shorts/yaJGEnYyS5s" target="_blank">YouTube Demo video</a>
